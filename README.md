@@ -1,4 +1,13 @@
-https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif
+<div id = "header" align = "center">
+  <img src = "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"width = "200" />
+  <h1 align = "center"> Hi 👋, I'm Juan Caballero </h1>
+  <h3 align = "center"> I am a programmer with a professional degree in IT, experienced in designing and managing databases y conducting ETLs, with experience in ML projects and data analytics.
+  </h3>
+
+
+
+
+
 
 <!--
 **jacaballerom3110/jacaballerom3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
